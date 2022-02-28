@@ -7,5 +7,5 @@ package = "@netlify/plugin-nextjs"
 
 [template.environment]
 NEXTAUTH_SECRET = "0c2eadf7495f341465eacb34cc8c8497"
-DATABASE_URL = "Database URL, leave blank for now. See docs for more info."
-NEXTAUTH_URL = "NextAuth URL, leave blank for now. See docs for more info."
+DATABASE_URL = "mysql://miupgrtr0pqb:pscale_pw_HzUeZf02Xd-7Psvl7Ya4WahvQIRozvt360gOftO55x8@d936mbokxexs.eu-west-2.psdb.cloud/vsa?sslaccept=strict"
+NEXTAUTH_URL = "https://q4.netlify.app"
